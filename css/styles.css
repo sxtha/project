@@ -1,0 +1,24 @@
+#header .search .btn{
+    color: brown;
+    background-color: #F9AF47;
+}
+.dropdown-menu ,.dropdown-menu>li>a{
+    border-radius: 40px;
+}
+#header-menu .menu-list ,#footer {
+    background-color:#F9AF47 ;
+}
+#header-menu .menu-list li a{
+    color: brown;
+}
+#admin-menu .menu-list li a{
+    color: brown;
+}
+ #admin-menu,#admin-content .add-new,#admin-header .logout,#admin-footer{
+    background-color:#F9AF47 ;
+    color: brown;
+}
+#admin-content .detail-box{
+    background-color: deepskyblue;
+    color: brown;
+}
